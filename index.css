@@ -107,7 +107,7 @@ section{
         h4{
         z-index: 4;
         position: relative;
-        left:540px;
+        left:440px;
         bottom: 400px;
     }
     } 
@@ -191,5 +191,8 @@ a[id="enquire"]:hover,a[id="Cata"]:hover,a[id="contact"]:hover,a[id="about"]:hov
  }
 
 balc{
+    display: none;
+}
+#topmost{
     display: none;
 }
